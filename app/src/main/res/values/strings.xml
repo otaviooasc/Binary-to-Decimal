@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Binary to Decimal</string>
+    <string name="convert_to_binary">Convert to binary</string>
+    <string name="decimal">Decimal</string>
+    <string name="binary">Binary</string>
+    <string name="_10">1010</string>
+    <string name="_01010">1234</string>
+    <string name="convert_to_decimal">Convert to decimal</string>
+</resources>

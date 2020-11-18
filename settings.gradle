@@ -1,0 +1,2 @@
+rootProject.name='Binary to Decimal'
+include ':app'
